@@ -1,0 +1,9 @@
+.images{
+    display: grid;    
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.images img{
+    white-space: 200px;
+    height: 150px;
+}
